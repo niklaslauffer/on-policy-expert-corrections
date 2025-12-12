@@ -1,6 +1,6 @@
-<figure style="text-align: center;">
+<p align="center">
   <img src="assets/figure1.png" alt="Teaser figure showing the OEC pipeline" width="620">
-</figure>
+</p>
 
 <hr />
 
